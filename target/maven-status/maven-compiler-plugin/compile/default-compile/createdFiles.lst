@@ -1,0 +1,4 @@
+org\springframework\security\saml\web\MetadataValidator.class
+org\springframework\security\saml\web\MetadataForm.class
+org\springframework\security\saml\web\MetadataController.class
+org\springframework\security\saml\web\MetadataController$AllowedSSOBindings.class
